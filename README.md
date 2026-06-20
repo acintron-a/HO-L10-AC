@@ -170,13 +170,13 @@ To avoid any future charges (especially if you're on the Free Tier), be sure to 
 ## Screenshots of Execution
 
 ### Screenshot 1
-![hello](https://github.com/acintron-a/HO-L10-AC/raw/main/images/AWS-Glue-Jobs-Logs.png)
+![Logs of jobs in AWS Glue](https://github.com/acintron-a/HO-L10-AC/raw/main/images/AWS-Glue-Jobs-Logs.png)
 
 ### Screenshot 2
-![hello](https://github.com/acintron-a/HO-L10-AC/raw/main/images/S3-Output.png)
+![Output generated in designated S3 bucket](https://github.com/acintron-a/HO-L10-AC/raw/main/images/S3-Output.png)
 
 ### Screenshot 3
-![hello](https://github.com/acintron-a/HO-L10-AC/raw/main/images/S3-Athena-Results.png)
+![Output from Athena](https://github.com/acintron-a/HO-L10-AC/raw/main/images/S3-Athena-Results.png)
 
 ### Screenshot 4
-![hello](https://github.com/acintron-a/HO-L10-AC/raw/main/images/S3-Processed-Data.png)
+![Output directory from Spark job in AWS](https://github.com/acintron-a/HO-L10-AC/raw/main/images/S3-Processed-Data.png)
